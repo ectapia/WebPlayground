@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Let's get some cool stuff on here!
 
 You can use the [editor on GitHub](https://github.com/ectapia/WebPlayground/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
